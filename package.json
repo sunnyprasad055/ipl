@@ -1,0 +1,17 @@
+{
+  "name": "ipl-score",
+  "version": "1.0.0",
+  "description": "gets the live score required data of an ipl match",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "sunny_prasad",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
